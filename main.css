@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+p{
+  margin: 0;
+  padding: 0;
+}
+
+#canvas {
+  height: 500px;
+  width: 500px;
+  margin: 50px auto;
+  box-shadow: 10px -10px 10px 15px gray;
+}
+
+.right {
+  float: right;
+}
+
+.vertical-divider{
+  background-color: black;
+  height: 100%;
+  width: 2%;  
+}
+
+.horizontal-divider {
+  background-color: black;
+  height: 2%;
+  width: 100%;
+}
+
+#first-row {
+  height: 32%;
+  width: 100%;
+}
+
+#first-right-column {
+  height: 100%;
+  width: 32%;
+}
+
+#hom-pro {
+  height: 100%;
+  width: 100%;
+}
+
+#first-center-column {
+  background-color: white;
+  height: 100%;
+  width: 32%;
+}
+
+#top-rectangle {
+  background-color: navy;
+  height: 50%;
+  width: 100%;
+}
+
+#nombre-html {
+  color: cyan;
+  text-align: center;
+  position: relative;
+  top: 5%;
+  left: -15%;
+}
+
+#divider {
+  background-color: black;
+  height: 10%;
+  width: 100%;
+}
+
+#bottom-rectangle {
+  background-color: black;
+  height: 40%;
+  width: 100%;
+}
+
+#mi-nombre {
+  color: black;
+  font-size: 150%;
+  margin-left: 6%;
+  position: relative;
+  top: 25%;
+  text-shadow: 3px 2px 10px cyan; 
+} 
+
+#first-left-column {
+  background-color: rgba(0,0,0,.65);
+  height: 100%;
+  width: 32%;
+}
+
+p{
+  font-weight: 900;
+  margin-left: 35%;
+  position: relative;
+  top: 9%;
+}
+
+#logo-html {
+  margin: 1% 5%;
+  height: 94%;
+  width: 90%;
+}
+
+#second-row {
+  height: 32%;
+  width: 100%;
+}
+
+#second-right-column {
+  height: 100%;
+  width: 32%;
+}
+
+#top {
+  height: 45%;
+  width: 100%;
+}
+
+#codeberry-logo {
+  height: 100%;
+  width: 50%;
+  margin-left: 25%;
+}
+
+#middle {
+  background-color: black;
+  height: 10%;
+  width: 100%;
+}
+
+#bottom {
+  height: 45%;
+  width: 100%;
+}
+
+#nom-cb {
+  margin-left: 3%;
+  margin-top: 5%;
+  font-size: 200%;
+  font-family: Roboto;
+  color: palevioletred;
+}
+
+#second-center-column {
+  background-color: rgba(0,0,0,.65);
+  height: 100%;
+  width: 32%;
+}
+
+#logo-css {
+  margin: 10% 20%;
+  height: 80%;
+  width: 60%;
+}
+
+#second-left-column {
+  background-color: cyan;
+  height: 100%;
+  width: 32%;
+}
+
+#nombre-css {
+  color: navy;
+  text-align: center;
+  position: relative;
+  top: 30%;
+  left: -18%;
+}
+
+#third-row {
+  height: 32%;
+  width: 100%;
+}
+
+#third-right-column {
+  background-color: rgba(0,0,0,.65);
+  height: 100%;
+  width: 32%;
+}
+
+#js {
+  margin: 0;
+  font-weight: 900;
+  position: relative;
+  top: 7%;
+  left: 46%;
+}
+
+#logo-javascript {
+  margin: 9% 16%;
+  height: 70%;
+  width: 70%;
+}
+
+#third-center-column {
+  height: 100%;
+  width: 32%;
+}
+
+#nombre-js {
+  color: green;
+  text-align: center;
+  margin-top: 30%;
+  position: relative;
+  left: -16%;
+}
+
+#third-left-column {
+  background-color: green;
+  height: 100%;
+  width: 32%;
+}
+
+#lap-codigo {
+  height: 100%;
+  width: 100%;
+}
